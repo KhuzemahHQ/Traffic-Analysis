@@ -2,6 +2,8 @@
 
 I ran some analysis on pedestrian and traffic data on King Street in Toronto.
 
+Data was taken from https://open.toronto.ca/dataset/king-st-transit-pilot-detailed-traffic-pedestrian-volumes/
+
 Contains information licensed under the Open Government Licence – Toronto.
 
 Baseline traffic & pedestrian volumes were collected during October and early November 2017.
